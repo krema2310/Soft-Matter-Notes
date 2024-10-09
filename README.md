@@ -65,7 +65,7 @@ Given below is a video of Brownian motion of fat globules in milk.
 
 [Geogebra: Vanderwaals interaction](https://www.geogebra.org/calculator/awzzt7d6)
 
-<font color="green">  ***You may vary the parameters to understand how a minimum in the potential determines the stable distance between the particles***
+<font color="green">  ***You may vary the parameters to understand how a minimum in the potential determines the equilibrium distance between the particles***
 
 <font color="white">
 
