@@ -56,7 +56,9 @@ plt.show()
 ![](Randomwalk.jpg)
 
 Given below is a video of Brownian motion of fat globules in milk.
-![Brownian motion of fat globules in milk](https://youtu.be/2mH6jElY9FI)
+
+<iframe width="640" height="480" src="https://youtu.be/2mH6jElY9FI" allowfullscreen></iframe>
+
 
 
  Beginning with electrostatic interactions between molecules we use simple rules of additivity to study the attractive and repulsive forces between macroscopic bodies. Vander waals attraction between macroscopic objects of different geometry (infinite planes, cylinders and spheres), double layer repulsion between surfaces in the presence of an intervening medium, depletion forces and steric repulsion are discussed. These attractive and repulsive forces have a crucial role in stabilizing dispersion of colloidal particles in aqueous or organic solvents.
